@@ -1,0 +1,15 @@
+# Extracted data (reconstruct from zip)
+data/smpl_motions_extracted/
+
+# Large raw video files (>100MB — consider git-lfs)
+# data/videos/
+
+# Python / env
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
